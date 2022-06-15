@@ -1,0 +1,43 @@
+{
+  "name": "reward-token-interface",
+  "version": "0.1.0",
+  "private": true,
+  "// If You want to install mdbreact from our GitLab repository, please replace '4.27.0' with gitURL provided here ->": "git+https://oauth2:<YOUR-TOKEN-GOES-HERE>@git.mdbootstrap.com/mdb/react/re-pro.git",
+  "dependencies": {
+    "@ethersproject/providers": "^5.0.14",
+    "@ethersproject/units": "^5.0.6",
+    "@walletconnect/web3-provider": "^1.6.5",
+    "alertifyjs": "^1.13.1",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "ethers": "^5.4.6",
+    "evm-chains": "^0.2.0",
+    "fortmatic": "^2.2.1",
+    "html-react-parser": "^0.14.1",
+    "react": "^16.14.0",
+    "react-alertify-js": "^0.0.1",
+    "react-countdown": "^2.3.1",
+    "react-device-detect": "^1.17.0",
+    "react-dom": "^16.14.0",
+    "react-image-gallery": "^1.2.7",
+    "react-minimal-pie-chart": "^8.1.0",
+    "react-player": "^2.9.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.0",
+    "react-toastify": "^6.0.9",
+    "web3": "^1.3.0",
+    "web3modal": "^1.9.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
